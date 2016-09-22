@@ -21,6 +21,8 @@ namespace cis237InClass2
             else
             {
                 //DO towers of Hanoi
+                //The Dawn way(work done in constructor)
+                TowerOfHanoi towerOfHanoi = new TowerOfHanoi();
             }
         }
     }
